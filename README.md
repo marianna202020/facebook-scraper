@@ -1,5 +1,5 @@
 # Facebook Scraper
-
+[![Run on Repl.it](https://repl.it/badge/github/kevinzg/facebook-scraper)](https://repl.it/github/kevinzg/facebook-scraper)
 Scrape Facebook public pages without an API key. Inspired by [twitter-scraper](https://github.com/kennethreitz/twitter-scraper).
 
 
